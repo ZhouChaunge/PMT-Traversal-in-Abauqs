@@ -1,6 +1,6 @@
 # PMT-Traversal-in-Abauqs
 
-1. 配置运行环境。在当前文件夹目录下，执行
+1. 配置运行环境。在当前文件夹目录下，进入cmd控制台，然后执行下面的命令
    
     conda crate -n pyabaqus37 python=3.7
    

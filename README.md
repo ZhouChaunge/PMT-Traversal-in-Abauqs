@@ -1,3 +1,14 @@
+<div align="center">
+<h1 align="center">PMT-Traversal-in-Abauqs</h1>
+</div>
+
+<br>
+<b>项目简介</b>：利用python进行在Abaqus中基于Umat子程序进行旁压试验(轴对称模型)的遍历计算，主要流程包括<b>覆写本构参数</b>、<b>自动提交运算</b>，<b>结果导出</b>和<b>后处理</b>等，在执行求解过程中调用了gpu加速有限元计算。
+
+[images/Pseudo-code.png](https://raw.githubusercontent.com/ZhouChaunge/PMT-Traversal-in-Abauqs/main/images/Pseudo-code.png)
+<br>
+
+
 # PMT-Traversal-in-Abauqs
 
 1. 配置运行环境。在当前文件夹目录下，进入cmd控制台，然后执行下面的命令
